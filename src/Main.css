@@ -1,0 +1,12 @@
+h2{
+  color: rgb(50, 50, 50);
+  font-weight: 700;
+  font-size: 62pt;
+  letter-spacing: 4px;
+}
+@media screen and (max-width:480px) {
+  h2{
+    font-size: 42pt;
+    letter-spacing: 1.5px;
+  }
+}
